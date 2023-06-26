@@ -8,5 +8,5 @@ Download "finalproject.cpp"
 
 ## How to play
 
-Please run the code with Dev C++, use keyboard to play.
+Please run the code with Dev C++ or Codeblock, use keyboard to play.
 Most important, have fun!
