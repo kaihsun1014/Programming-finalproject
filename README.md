@@ -1,4 +1,4 @@
-# Programming-finalproject
+# Programming_finalproject
 
 This repo is used to share our final project-NS-SHAFT to everyone.
 
